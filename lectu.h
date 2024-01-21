@@ -1,0 +1,1 @@
+int leerEnteroEntre(char*,int,int);

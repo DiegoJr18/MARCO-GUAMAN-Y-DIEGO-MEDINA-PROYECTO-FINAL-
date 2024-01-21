@@ -1,0 +1,2 @@
+int menuOpcion();
+int menuEdit();
